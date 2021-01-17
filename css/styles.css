@@ -36,6 +36,7 @@ body {
 img {
   border-radius: 50%;
 }
+
 .box1 {
   text-align: center;
   position:static;
@@ -48,9 +49,6 @@ img {
   width: 300px;
   height: 300px; 
 }
-
-
-
 .box2 {
   text-align: center;
   position:static;
@@ -63,28 +61,20 @@ img {
   width: 1270px;
   height: 75px; 
 }
-
-.list1 {
-  position: absolute;
-  left:100px;
-  top: 1200px;
+.box3 {
+    text-align: center;
+    position:static;
+    border: 5px solid rgb(85, 68, 97);
+    background-color: #FDF5E6;
+    padding: 40px;
+    margin: 30px;
+    width: 1270px;
+    height: 160px; 
+  }
+.span {
+  color:#FDF5E6;
 }
 
-
-.list2 {
-  position: absolute;
-  right: 850px;
-  top: 1200px;
-}
-
-.list3 {
-  position:absolute;
-  right:460px;
-  top: 1200px;
-}
-
-.list4 {
-  position:absolute;
-  right:200px;
-  top:1200px;
+.span2 {
+  color:rgb(85, 68, 97)
 }
