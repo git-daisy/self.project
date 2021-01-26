@@ -19,11 +19,15 @@ laid out properly, and eventually ran out of time. I am excited to implement eve
 ## To View My GitPages :
 * https://git-daisy.github.io/self.project/
 
-## To clone this repository to your Github: 
-* On GitHub, navigate to the main page of the repository.
-* Above the list of files, click the green button thats says "Code", this will copy the URL to your clipboard. 
-* Click "Open with GitHub Desktop" to clone and open the repository with GitHub Desktop.
-* Follow the prompts in GitHub Desktop to complete the clone! 
+## To clone this repository locally using Gitbash: 
+* On Github, navigate to the main page of the repository you wish to clone. 
+* Above the list of files, click "Code", this will copy the URL to your clipboard.
+* To clone the repository using HTTPS, under "Clone with HTTPS", click the small clipboard icon. Use the same process for cloning with SSH key or Github CLI.
+* Open gitbash and change the current working directory to the location where you want the cloned directory.
+* Type "git clone" and then paste the URL you copied to the clipboard earlier.
+* Press "enter" to create your local clone. 
+* Have fun! 
+ 
 
 
 
