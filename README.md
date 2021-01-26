@@ -19,6 +19,12 @@ laid out properly, and eventually ran out of time. I am excited to implement eve
 ## To View My GitPages :
 * https://git-daisy.github.io/self.project/
 
+## To clone this repository to your Github: 
+* On GitHub, navigate to the main page of the repository.
+* Above the list of files, click the green button thats says "Code", this will copy the URL to your clipboard. 
+* Click "Open with GitHub Desktop" to clone and open the repository with GitHub Desktop.
+* Follow the prompts in GitHub Desktop to complete the clone! 
+
 
 
 
